@@ -1,0 +1,40 @@
+Notes from 1_data_prep
+---------------------------------
+Number of  exclusions due to citizenship:
+249.894237997182
+Number of additional exclusions due to parentage: 409.583963734314
+Number of additional exclusions due to no contact:
+212.078623652027
+ 
+Number of responses considered (all weighted): 2618.44317461649
+Descriptive stats for Instrumental value for diversity (divprefinstr)
+Cronbach's alpha:0.59
+Mean: 2.95  SD: 0.72
+Spearman-Brown correlation for valuing diversity: 0.594051401181676
+Descriptive stats for Instrumental value for diversity (for_att)
+Cronbach's alpha:0.80
+Mean: 4.36  SD: 1.20
+sex: NA% missing
+
+age: 0.19% missing
+
+educN: 0.02% missing
+
+divprefinstr: 0.46% missing
+
+for_att: 0.05% missing
+
+leftright: 3.38% missing
+
+nb_scoreY: 1.73% missing
+
+eastwest: NA% missing
+
+foreign_neighbours: 1.83% missing
+
+posCont: 0.36% missing
+
+negCont: 0.43% missing
+
+Cases with any missing: 7.49%
+
